@@ -1,0 +1,19 @@
+                                          /* footer */
+
+footer
+{
+    overflow: hidden;
+    background-color: #999999;
+}
+
+footer .text-head
+{
+    color: #FFF;
+    font-family: 'Cairo', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    justify-content: flex-end;
+    display: flex;
+    position: relative;
+    bottom: 26px;
+}

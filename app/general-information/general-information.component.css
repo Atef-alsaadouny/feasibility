@@ -1,0 +1,127 @@
+                                          /* frameWork */
+*
+{
+    box-sizing: border-box;
+}
+
+.poi
+{
+    cursor: pointer;
+}
+
+
+                                          /* inputs */
+
+
+
+.inputs h3
+{
+    padding: 15px;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 600;
+    width: 38%;
+    margin: 35px auto;
+    box-shadow: 1px 5px 9px #999;
+}
+
+.inputs .form-group
+{
+    border: 4px solid #CCC;
+    border-radius: 20px;
+    margin-bottom: 26px;
+    padding: 50px 50px 9px 50px;
+    font-family: 'Cairo', sans-serif;
+}
+
+.inputs .box .box-input
+{
+
+    float: right;
+    width: 25%;
+    margin: 1% 4%;
+}
+
+.inputs .box .box-input:last-of-type
+{
+    margin-left: 0;
+}
+
+.inputs .box .box-input label 
+{
+    float: right;
+    width: 59%;
+    margin-bottom: 39px;
+} 
+
+.inputs .box input 
+{
+    border-radius: 30px;
+    padding: 2px 6px;
+    width: 41%;
+    background-color: #cccccc14;
+    float: right;
+    margin-bottom: 28px;
+}
+
+.inputs .box select 
+{
+    display: inline;
+    border-radius: 30px;
+    padding-right: 36px;
+    float: right;
+    width: 41%;
+    margin-bottom: 28px;
+    background-color: #cccccc14;
+}
+
+.inputs .box .box-input button
+{
+    position: relative;
+    padding: 7px 18px;
+    font-size: 15px;
+    font-weight: 600;
+    right: 272px;
+    top: 73px;
+    border-radius: 35px;
+}
+
+
+.inputs .form-group .box-2 .top
+{
+    background-color: #CCC;
+    text-align: center;
+    padding: 10px;
+}
+
+.inputs .form-group .box-2 .top p
+{
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0 300px;
+    display: inline-block;
+    color: #4c4949;
+}
+
+.inputs .form-group .box-2 .bottom
+{
+    background-color: #EEE;
+    padding: 10px;
+}
+
+.inputs .form-group .box-2 .bottom input
+{
+    display: inline-block;
+    width: 25%;
+    border-radius: 30px;
+    margin: 0px 152px;
+    padding-right: 11px;
+}
+
+.inputs .form-group .box-2 button
+{
+    float: left;
+    margin: 10px 0px 0px -41px;
+    border-radius: 17px;
+    padding: 5px 20px;
+}

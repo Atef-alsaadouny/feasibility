@@ -1,0 +1,167 @@
+                                          /* frameWork */
+*
+{
+    box-sizing: border-box;
+}
+
+.poi
+{
+    cursor: pointer;
+}
+
+                                            /* table */
+
+.tables 
+{
+   background-color: #fdfdfd;
+   padding-top: 10px;
+   font-family: 'Cairo', sans-serif;
+}  
+
+.tables h3
+{
+    padding: 15px;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 600;
+    width: 38%;
+    margin: 25px auto;
+    box-shadow: 1px 5px 9px #999;
+}
+
+.tables button
+{
+    margin: 0 10px;
+    border-radius: 30px;
+    padding: 7px 11px;
+}
+
+.tables .show 
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cairo', sans-serif;
+}
+
+.tables .show a 
+{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 7px;
+    margin-left: 0;
+    text-decoration: none;
+    color:#564c4c;
+    border-left: 2px solid #CCC;
+    border-top: 2px solid #CCC;
+}
+
+
+.tables .show  p 
+{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tables .show i
+{
+    font-size: 22px;
+    min-width: 0;
+    margin: 0 5px;
+}
+
+
+.tables .inputs
+{
+    margin-bottom: 8px;
+}
+
+.tables .inputs input , select
+{
+    display: inline-block;
+    border-radius: 15px;
+    padding: 1px;
+}
+
+.tables .labels label
+{
+    font-weight: 400;
+    font-size: 16px;
+    width: 105px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+table
+{
+    width: 100%;
+    border-width: 0 0.5px;
+}
+
+.tables table tbody input , select , i
+{
+    border-radius: 15px;
+}
+
+.tables table tbody th
+{
+    width: 100px;
+    padding: 20px 5px 0px 5px;
+}
+
+.tables table tr:hover
+{
+    background-color: #d1d0d0e7;
+}
+
+
+                                            /* texts */
+
+.texts 
+{
+    padding: 15px;
+    margin: 20px auto ;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.texts  input 
+{
+    margin: 16px 30px;
+    border-radius: 15px;
+    padding: 1px;
+    padding-right: 5px;
+    width:110px;
+    display: inline-block;
+}
+
+
+.texts  p 
+{  
+    margin: 10px 26px;
+    display: inline-block;
+}
+
+.texts label
+{
+    margin: 16px 30px 0 10px;
+}
+
+.texts textarea 
+{
+    width: 700px;
+    height: 182px;
+    margin-top: 30px;
+    border: 1px solid #CCC;
+    border-radius: 15px;
+}
+
+.texts button
+{
+    float: left;
+    margin: 10px;
+    border-radius: 30px;
+    padding: 4px 10px;
+}
