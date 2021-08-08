@@ -1,2 +1,2 @@
-# feasibilty
+# feasibility
 angular project
